@@ -1,0 +1,141 @@
+{
+  "name": "SoYeop Yoo",
+  "role": "Postdoctoral Researcher",
+  "research_unit": "Intelligent Platforms Research Institute",
+  "affiliation": "National Institute of Advanced Industrial Science and Technology (AIST)",
+  "location": "Tokyo, Japan",
+  "email_local": "soyeop-yoo",
+  "email_domain": "aist.go.jp",
+  "tagline": "I study how knowledge, memory, and emotion can shape more human-centered AI systems.",
+  "bio": "My work spans natural language processing, knowledge graphs, empathetic dialogue, and long-term AI memory. I am currently a postdoctoral researcher at AIST in Tokyo, Japan.",
+  "research": [
+    {
+      "title": "Long-term AI memory",
+      "description": "Emotion-aware memory and compression for adaptive AI agents.",
+      "terms": "AI memory · emotion · agents"
+    },
+    {
+      "title": "Knowledge-augmented AI",
+      "description": "Structured knowledge and graph-based reasoning for language systems.",
+      "terms": "Knowledge graphs · GraphRAG · grounded reasoning"
+    },
+    {
+      "title": "Human-centered dialogue",
+      "description": "Emotion understanding and conversational systems that respond to people with care.",
+      "terms": "Empathetic AI · dialogue · emotion"
+    }
+  ],
+  "links": [
+    {
+      "label": "Google Scholar",
+      "url": "https://scholar.google.com/citations?user=UT4ujAEAAAAJ"
+    },
+    {
+      "label": "ORCID",
+      "url": "https://orcid.org/0000-0002-5058-0002"
+    }
+  ],
+  "news": [
+    {
+      "date": "2026-09",
+      "text": "Published in Mathematics:",
+      "paper_id": "care-moe-2026"
+    },
+    {
+      "date": "2026-09",
+      "text": "Joined AIST as a Postdoctoral Researcher in Tokyo, Japan."
+    },
+    {
+      "date": "2026-08",
+      "text": "Published in the KDD 2026 proceedings:",
+      "paper_id": "learning-to-forget-kdd-2026"
+    }
+  ],
+  "experience": [
+    {
+      "period": "Sep 2026–Present",
+      "role": "Postdoctoral Researcher",
+      "unit": "Intelligent Platforms Research Institute",
+      "organization": "National Institute of Advanced Industrial Science and Technology (AIST)",
+      "location": "Tokyo, Japan"
+    },
+    {
+      "period": "2025–2026",
+      "role": "Postdoctoral Researcher",
+      "unit": "Department of Electrical Engineering and Computer Science",
+      "organization": "Daegu Gyeongbuk Institute of Science and Technology (DGIST)",
+      "location": "Daegu, South Korea",
+      "description": "InnoCORE postdoctoral fellowship."
+    },
+    {
+      "period": "2021–2025",
+      "role": "Research / Visiting Professor",
+      "unit": "School of Computing / Department of AI",
+      "organization": "Gachon University",
+      "location": "Seongnam, South Korea"
+    },
+    {
+      "period": "2016–2018",
+      "role": "Researcher",
+      "organization": "Gachon University",
+      "location": "Seongnam, South Korea"
+    }
+  ],
+  "education": [
+    {
+      "period": "2021",
+      "degree": "Ph.D. in AI·Software",
+      "institution": "Gachon University",
+      "detail": "Thesis: Conversational Emotion AI based on Auto-growing Knowledge Graph",
+      "advisor": "Prof. Ok-Ran Jeong"
+    },
+    {
+      "period": "2016",
+      "degree": "M.S. in Software",
+      "institution": "Gachon University",
+      "detail": "Thesis: Social Media Content-based Application System",
+      "advisor": "Prof. Ok-Ran Jeong"
+    },
+    {
+      "period": "2014",
+      "degree": "B.S. in Software",
+      "institution": "Gachon University"
+    }
+  ],
+  "projects": [
+    {
+      "period": "2023–2024",
+      "title": "An Ethical Decision-making Conversational AI System Understanding Social Norms",
+      "role": "Principal Investigator",
+      "funder": "National Research Foundation of Korea"
+    },
+    {
+      "period": "2019–2022",
+      "title": "Conversational AI Framework based on Auto Growing Knowledge Graph",
+      "role": "Participating Researcher",
+      "funder": "National Research Foundation of Korea"
+    }
+  ],
+  "teaching": [
+    "Algorithms",
+    "Fundamentals of Programming",
+    "Object-Oriented Programming",
+    "Big Data Platform",
+    "Software Mathematics",
+    "Robotics"
+  ],
+  "awards": [
+    {
+      "year": "2019",
+      "title": "Excellence Award, Spring Conference of KISM & SEBS"
+    },
+    {
+      "year": "2014",
+      "title": "Excellence Award in Database, Korea Computer Congress"
+    },
+    {
+      "year": "2014",
+      "title": "Excellence Award, Microsoft International Women’s Hackathon"
+    }
+  ]
+}
